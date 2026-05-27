@@ -9,7 +9,7 @@
   <samp>
     🌐 Software Engineer from <b>Spain</b> 🇪🇸  
     <br/>
-    Passionate about clean code,AI, UI/UX & modern web apps ✨
+    Passionate about clean code, AI, UI/UX & modern web & apps ✨
   </samp>
 </p>
 
