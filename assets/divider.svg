@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 28" width="800" height="28" role="img" aria-label="divider">
+<defs>
+<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#ff69b4" stop-opacity="0"/><stop offset=".5" stop-color="#ff69b4"/><stop offset="1" stop-color="#ff69b4" stop-opacity="0"/></linearGradient>
+<radialGradient id="s"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#ffb6d5"/><stop offset="1" stop-color="#ff69b4" stop-opacity="0"/></radialGradient>
+<style>
+.sp{animation:mv 5s ease-in-out infinite}
+@keyframes mv{0%{transform:translateX(40px);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(760px);opacity:0}}
+.h{animation:pb 1.6s ease-in-out infinite;transform-origin:400px 14px}
+@keyframes pb{0%,100%{transform:scale(1)}50%{transform:scale(1.18)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+</defs>
+<rect x="20" y="13" width="760" height="2" rx="1" fill="url(#l)"/>
+<circle class="sp" cx="0" cy="14" r="7" fill="url(#s)"/>
+<path class="h" d="M400,21 C392,15 386,11 386,7 C386,3.5 389,1.5 392,1.5 C395,1.5 397.5,3.5 400,6 C402.5,3.5 405,1.5 408,1.5 C411,1.5 414,3.5 414,7 C414,11 408,15 400,21 Z" fill="#ff69b4" transform="translate(0 2.5)"/>
+</svg>

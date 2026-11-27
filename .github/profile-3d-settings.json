@@ -1,0 +1,24 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-pink-day.svg",
+    "backgroundColor": "#fff0f5",
+    "foregroundColor": "#6b4c5a",
+    "strongColor": "#ff4f81",
+    "weakColor": "#b08a99",
+    "radarColor": "#ff69b4",
+    "growingAnimation": true,
+    "contribColors": ["#ffe4ee", "#ffc2d9", "#ff94bf", "#ff5fa3", "#e0287a"]
+  },
+  {
+    "type": "normal",
+    "fileName": "profile-pink-night.svg",
+    "backgroundColor": "#140c2e",
+    "foregroundColor": "#f3e8ff",
+    "strongColor": "#ff8fc4",
+    "weakColor": "#9b86b8",
+    "radarColor": "#ff69b4",
+    "growingAnimation": true,
+    "contribColors": ["#2a1b45", "#5a2a6e", "#9b3a8f", "#e0559f", "#ff8fc4"]
+  }
+]
