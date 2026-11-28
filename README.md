@@ -90,7 +90,7 @@ I'm looking for **Product Engineer** opportunities where software meets real ope
 
 | | | |
 |:--:|:--|--:|
-| ✈️ | **Logistics & Digitalization Trainee** — Airbus Discover Program · Cádiz | `2026 → 2027` |
+| ✈️ | **Logistics & Digitalization Trainee** — Airbus Discover Program · Cádiz | `2025 → 2026` |
 | 🎓 | **MSc Web Application Development** — Universidad Europea | `2025 → 2026` |
 | 📈 | **Master's in Organizational Management & Data Analytics** — UCJC | `2025 → 2026` |
 | 🏥 | **Software Consulting & Development Intern** — Dedalus Healthcare · Sevilla | `2025` |
